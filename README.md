@@ -1,4 +1,4 @@
-# This is a Rust script to Derive an ETH private address, to match a missing private address character to the Public address.
+# DerETH Docs
 
 ## How to use
 
