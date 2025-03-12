@@ -7,7 +7,7 @@ use tiny_keccak::{Hasher, Keccak};
 use std::str;
 
 fn main() {
-    let full_private_key = "YOUR_FULL_64_CHAR_PRIVATE_KEY";
+    let known_private_key = "YOUR_63_DIGITS_PRIVATE_ETHEREUM_KEY";
     let known_ethereum_address = "0xYourKnownEthereumAddress";
     let known_ethereum_address = known_ethereum_address.to_lowercase();
 

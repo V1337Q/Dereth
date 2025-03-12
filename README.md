@@ -8,7 +8,6 @@
 
 3. Insert the Private address in the script
 
-4.
 Run the script 
 
 ```bash
@@ -24,9 +23,7 @@ Private Address: 0x4f3edf983ac636a65a842ce7c78d9aa706d3b113bce9c46f30d7d21715b23
 Public Address: 0x8f3edf983ac636a65a842ce7c78d9aa706d3b113bce9c46f30d7d21715b23b1d
 ```
 
-## How it works
 
-The script uses the `eth-keystore` crate to derive the private key from the public key.
 
 
 
